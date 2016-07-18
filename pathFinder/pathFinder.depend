@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1465552605 source:e:\torrent downloader project\pathfinder\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdio.h>
+	<string.h>
+
